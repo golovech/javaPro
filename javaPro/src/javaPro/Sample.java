@@ -6,7 +6,8 @@ public class Sample {
 		
 		System.out.println("최사랑");		
 		System.out.println("강아지");		
-		System.out.println("이사랑 - 코딩 수정함");		
+		System.out.println("누군가에 의해 코딩 수정되어짐.");	
+
 
 	}
 
